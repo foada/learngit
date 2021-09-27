@@ -18,8 +18,8 @@
 <h2>⚡️ 🄺🄾 🄽🄾 /🅓🅔🅥/🅩🅔🅡🅞 🄳🄰</h2>
 
 <ul>
-<li>🔑 644152D8CB4A8DE1</li>
-<li>🎓 BIT CS</li>
+<li>🔑 644152D8CB4A8DE1（这是啥🤷‍♀️）</li>
+<li>🎓 USTC CS</li>
 <li>🔍 Cyber security ... IoT security recently</li>
 <li>⌨️ Bug hunter & Script boy & Baby coder</li>
 <li>👾 Former baby pwner ... a vegetable dog</li>
